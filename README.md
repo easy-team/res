@@ -1,24 +1,12 @@
 # res
 
 [![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Test coverage][codecov-image]][codecov-url]
-[![David deps][david-image]][david-url]
-[![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/res.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/@easy-team/res.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/res
-[travis-image]: https://img.shields.io/travis/easy-team/res.svg?style=flat-square
-[travis-url]: https://travis-ci.org/easy-team/res
-[codecov-image]: https://img.shields.io/codecov/c/github/easy-team/res.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/easy-team/res?branch=master
-[david-image]: https://img.shields.io/david/easy-team/res.svg?style=flat-square
-[david-url]: https://david-dm.org/easy-team/res
-[snyk-image]: https://snyk.io/test/npm/res/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/res
-[download-image]: https://img.shields.io/npm/dm/res.svg?style=flat-square
-[download-url]: https://npmjs.org/package/res
+[download-image]: https://img.shields.io/npm/dm/@easy-team/res.svg?style=flat-square
+[download-url]: https://npmjs.org/package/@easy-team/res
 
 
 A Powerful, Simple React Node Web Framework, Front-End and Node of The Application are Written in TypeScript or JavaScript! Everything is Simple!
