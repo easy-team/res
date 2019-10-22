@@ -6,7 +6,7 @@ module.exports = appInfo => {
   config.view = {
     defaultViewEngine: 'nunjucks',
     mapping: {
-      '.tpl': 'nunjucks'
+      '.tpl': 'nunjucks',
     },
   };
 
@@ -31,7 +31,7 @@ module.exports = appInfo => {
    * @property {renderOptions} Object - vue server side render options
    */
   config.reactssr = {
-    layout: path.resolve(__dirname, '../app/web/view/layout.html')
+    layout: path.resolve(__dirname, '../app/web/view/layout.html'),
   };
 
   return config;
