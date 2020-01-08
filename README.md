@@ -37,7 +37,7 @@ Node.js >= 8.0.0 required.
 
 ## Document
 
-- https://www.yuque.com/easy-team/res
+- https://easyjs.cn/res
 
 ## QuickStart
 
