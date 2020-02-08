@@ -1,13 +1,13 @@
 {
   "name": "@easy-team/res",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A Powerful, Simple Node React Web Framework",
   "dependencies": {
     "egg": "^2.3.0",
     "egg-cors": "^2.1.1",
     "egg-scripts": "^2.10.0",
     "egg-view-nunjucks": "^2.2.0",
-    "egg-view-react-ssr": "^2.5.0",
+    "egg-view-react-ssr": "^3.0.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
