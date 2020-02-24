@@ -1,6 +1,6 @@
 {
   "name": "@easy-team/res",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A Powerful, Simple Node React Web Framework",
   "dependencies": {
     "egg": "^2.3.0",
@@ -56,6 +56,7 @@
   "files": [
     "index.js",
     "lib",
+    "bin",
     "app",
     "config",
     "app.js",
